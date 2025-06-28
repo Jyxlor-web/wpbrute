@@ -55,3 +55,4 @@ Güvenlik açıkları/zayıflıkları olan demo sitelerde eğitim amaçlı kulla
 İzinsiz kullanımı yasal değildir ve suç teşkil eder.
 
 My Channel https://t.me/nextahackteam https://t.me/Jyxlorzirve
+My Web https://jyxlor.org.tr

@@ -53,3 +53,5 @@ Güvenlik açıkları/zayıflıkları olan demo sitelerde eğitim amaçlı kulla
 ⚠️ Uyarı:
 🔴 Bu tool'u sadece izinli testlerde, kendi sitende veya lab ortamında kullanmalısın.
 İzinsiz kullanımı yasal değildir ve suç teşkil eder.
+
+My Channel https://t.me/nextahackteam https://t.me/Jyxlorzirve
